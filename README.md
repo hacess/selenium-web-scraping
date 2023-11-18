@@ -21,16 +21,19 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/selenium-web-scraping.git
+```
 
 Navigate to the project directory:
 
 ```bash
 cd selenium-web-scraping
+```
 
 Run the Python script:
 
 ```bash
 python selenium_script.py
+```
 
 ## Usage
 
